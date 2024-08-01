@@ -1,4 +1,4 @@
-# Learn JavaScript by Building a Blackjack Game
+# Learnt JavaScript by Building a Blackjack Game
 
 ## Thoughts 💭
 
